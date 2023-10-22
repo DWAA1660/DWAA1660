@@ -2,6 +2,7 @@ Skills
 ---
 ### Learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,discord,bots,py,git,github,flask,linux,visualstudio,vscode,raspberrypi,mongo&perline=10)](https://skillicons.dev)
+![](https://jewishlewish.github.io/Fullmoon/assets/img/LunesHost.svg "Lunes Host")
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=rust,regex&perline=10)](https://skillicons.dev)
 
